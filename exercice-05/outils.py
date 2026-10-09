@@ -22,3 +22,4 @@ def mention(note):
     elif note >= 10:
         return "Passable"
     return "Insuffisant" 
+  
